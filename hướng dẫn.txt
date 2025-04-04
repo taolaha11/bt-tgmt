@@ -1,23 +1,12 @@
 
 
-bước 1: tải về branch "main" và "Xu-li-va-cham-diem/HoangAnhTuan"
+bước 1: tải về branch "main"
 ----------------------------------
 
-bước 2: giải nén hai file ZIP
+bước 2: giải nén
 ----------------------------------
 
-bước 3: hợp nhất thư mục
-
-- chuyển tất cả file từ folder 
-"bt-tgmt-Xu-li-va-cham-diem-HoangAnhTuan"
-
-sang folder "bt-tgmt-main"
-- skip file "README.md"
-
-*Lưu ý: cần đảm bảo không ghi đè các file quan trọng
-----------------------------------
-
-bước 4: chạy chương trình
+bước 3: chạy chương trình
 
 - cài đặt thư viện (mở CMD trong folder "bt-tgmt-main" sau đó chạy lệnh
 	"pip install -r requirements.txt")
